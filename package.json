@@ -1,0 +1,22 @@
+{
+  "name": "aws-codepipeline-codebuild-with-postman",
+  "version": "1.0.0",
+  "description": "aws automation tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venushofler/aws-codepipeline-codebuild-with-postman.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "venus hofler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venushofler/aws-codepipeline-codebuild-with-postman/issues"
+  },
+  "homepage": "https://github.com/venushofler/aws-codepipeline-codebuild-with-postman#readme"
+}
